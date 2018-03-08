@@ -1,0 +1,6 @@
+C:\Users\w401\Documents\love02\love\love\bin\Debug\love.exe.config
+C:\Users\w401\Documents\love02\love\love\bin\Debug\love.exe
+C:\Users\w401\Documents\love02\love\love\bin\Debug\love.pdb
+C:\Users\w401\Documents\love02\love\love\obj\Debug\love.csprojResolveAssemblyReference.cache
+C:\Users\w401\Documents\love02\love\love\obj\Debug\love.exe
+C:\Users\w401\Documents\love02\love\love\obj\Debug\love.pdb
